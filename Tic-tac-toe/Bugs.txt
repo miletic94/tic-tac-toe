@@ -1,0 +1,7 @@
+1. Sledeća kombinacija je pokazala da je X pobedio
+[['X' 'X' '' 'O']
+ ['X' 'X' 'X' 'O']
+ ['X' 'O' 'O' '']
+ ['O' '' '' '']]
+"Tvoj prvi ulovljeni bag uglavnom je tvoja greška u razumevanju aplikacije. Nisi srušio matematiku."
+Razlog je to što imamo kutijastu pobedu X-a
